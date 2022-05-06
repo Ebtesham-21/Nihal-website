@@ -14,6 +14,7 @@ import Partner from './components/Home/Partner/Partner';
 import Whatpeople from './components/Home/WhatPeople/Whatpeople';
 import Signup from './components/Home/Signup/Signup';
 import Latestnews from './components/Home/Latestnews/Latestnews';
+import Footer from './components/Shared/Footer/Footer';
 
 
 
@@ -32,6 +33,7 @@ function App() {
       <Whatpeople />
       <Signup />
       <Latestnews />
+      <Footer />
 
     </Container>
 
